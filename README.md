@@ -29,7 +29,6 @@ The Score Keeper App is a simple web application that allows users to track scor
 
 ### JavaScript
 - `app.js`: Handles the functionality of the app, including score updates, winning logic, and fireworks animation.
-- `fireworks.js`: Contains the code for the fireworks animation.
 
 ### Bulma
 The Score Keeper App uses Bulma, a modern CSS framework, for styling the components. Bulma provides a clean and responsive design with minimal effort, ensuring the app looks great on all devices.
